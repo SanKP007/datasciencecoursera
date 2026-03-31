@@ -1,0 +1,5 @@
+$AzureUserName="odl_user_2158637@sandboxailabs1010.onmicrosoft.com"
+$AzurePassword="kqdq65MBS*7r"
+$AzureTenantID="3670e846-58dd-4658-86fb-00e4029045d6"
+$AzureSubscriptionID="80c7837c-5794-4f19-9d2d-cac77ac52de1"
+$DeploymentID="2158637"
